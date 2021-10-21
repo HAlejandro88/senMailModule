@@ -46,4 +46,4 @@ const sendMail = async (subject, sendTo, BodyText, attachments, cc='', port= 465
     }
 }
 
-module.exports = sendMailZ;
+module.exports = sendMail;
