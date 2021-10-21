@@ -1,0 +1,22 @@
+{
+  "name": "senmailmodule",
+  "version": "1.0.0",
+  "description": "module for send mail",
+  "main": "SendMail.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HAlejandro88/senMailModule.git"
+  },
+  "author": "Alejandro Soto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HAlejandro88/senMailModule/issues"
+  },
+  "homepage": "https://github.com/HAlejandro88/senMailModule#readme",
+  "dependencies": {
+    "nodemailer": "^6.7.0"
+  }
+}
